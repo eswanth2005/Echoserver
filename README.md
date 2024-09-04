@@ -57,9 +57,8 @@ print(f"Received {data!r}")
 
 ## OUTPUT:
 ### Echo-server
-<p style="width:500 ;">
 ![Screenshot (165)](https://github.com/user-attachments/assets/69347ca1-5bde-4267-a3ae-e3e279c5107c)
-<\p>
+
 ### Echo-client
 ![Screenshot (164)](https://github.com/user-attachments/assets/4359c660-3d3e-4dad-8210-a7f6ab23f635)
 
